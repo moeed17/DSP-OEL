@@ -108,4 +108,5 @@ After window application leakage is minimized to a great extent only that remain
 3) Non-linear loads induce harmonics and hence the current waveform of non-linear loads in a non-sinusoidal.
 4) By application of suitable signal processing techniques we can minimize the effects of harmonics and improve the quality of power being drawn or delivered. Hence it is made sure that in power systems harmonics don't occur as they are bad news to a healthy working system.
  
- For more, you can see reports for hardware and technical details, calculations, experimental setup pictures, or the code itself. 
+For more, you can see reports for hardware and technical details, calculations, experimental setup pictures, and the codes. 
+Additionally you can find my lab manual for the course with complete exercises and their results along with the codes [here](https://github.com/moeed17/DSP-OEL/tree/main/DSP%20Lab%20Codes) and also theory lecture slides/ppts, notes etc. [here](https://drive.google.com/drive/folders/1i9jw4DORXgaRWLRP4X2hMhOXINS4etxQ)
